@@ -1,0 +1,104 @@
+2024-03-27 19:59:39,150 Table Agencies.patient_clientmatchingcriteria does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.patient_clientmatchingcriteria'
+2024-03-27 19:59:40,458 Successfully loaded 22582 records into Agencies.patient_clientmatchingcriteria at 2024-03-27 19:59:40.458878
+2024-03-27 19:59:44,624 Table Agencies.caregiver_caregiver_match_criteria does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.caregiver_caregiver_match_criteria'
+2024-03-27 19:59:44,942 Successfully loaded 6778 records into Agencies.caregiver_caregiver_match_criteria at 2024-03-27 19:59:44.942800
+2024-03-27 19:59:51,188 Table Agencies.caregiver_caregivercertification does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.caregiver_caregivercertification'
+2024-03-27 19:59:51,590 Successfully loaded 5741 records into Agencies.caregiver_caregivercertification at 2024-03-27 19:59:51.590791
+2024-03-27 19:59:55,806 Table Agencies.schedules_shift_occurence does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.schedules_shift_occurence'
+2024-03-27 19:59:56,059 Successfully loaded 6330 records into Agencies.schedules_shift_occurence at 2024-03-27 19:59:56.059074
+2024-03-27 20:00:02,985 Table Agencies.assessment_clienttask does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.assessment_clienttask'
+2024-03-27 20:00:03,471 Successfully loaded 4915 records into Agencies.assessment_clienttask at 2024-03-27 20:00:03.471916
+2024-03-27 20:00:09,749 Table Agencies.schedules_task does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.schedules_task'
+2024-03-27 20:00:10,284 Successfully loaded 6736 records into Agencies.schedules_task at 2024-03-27 20:00:10.284475
+2024-03-27 20:00:25,153 Table Agencies.schedules_shift_3months does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.schedules_shift_3months'
+2024-03-27 20:00:26,059 Successfully loaded 5374 records into Agencies.schedules_shift_3months at 2024-03-27 20:00:26.059895
+2024-03-27 20:00:30,521 Table Agencies.activity_activity_related_to does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.activity_activity_related_to'
+2024-03-27 20:00:30,766 Successfully loaded 5873 records into Agencies.activity_activity_related_to at 2024-03-27 20:00:30.766602
+2024-03-27 20:00:34,360 Table Agencies.profile_profile_tags does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.profile_profile_tags'
+2024-03-27 20:00:34,499 Successfully loaded 3205 records into Agencies.profile_profile_tags at 2024-03-27 20:00:34.499498
+2024-03-27 20:00:47,317 Table Agencies.logit_changelog does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.logit_changelog'
+2024-03-27 20:00:47,714 Successfully loaded 3377 records into Agencies.logit_changelog at 2024-03-27 20:00:47.714480
+2024-03-27 20:00:51,558 Table Agencies.assessment_clientactivity does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.assessment_clientactivity'
+2024-03-27 20:00:51,746 Successfully loaded 2439 records into Agencies.assessment_clientactivity at 2024-03-27 20:00:51.746492
+2024-03-27 20:01:04,986 Table Agencies.activity_activity does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.activity_activity'
+2024-03-27 20:01:05,696 Successfully loaded 3365 records into Agencies.activity_activity at 2024-03-27 20:01:05.696989
+2024-03-27 20:01:08,799 Table Agencies.activity_activity_tags does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.activity_activity_tags'
+2024-03-27 20:01:08,915 Successfully loaded 3247 records into Agencies.activity_activity_tags at 2024-03-27 20:01:08.915359
+2024-03-27 20:01:16,787 Table Agencies.profile_patient_agencylocation does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.profile_patient_agencylocation'
+2024-03-27 20:01:17,378 Successfully loaded 1714 records into Agencies.profile_patient_agencylocation at 2024-03-27 20:01:17.374604
+2024-03-27 20:01:23,364 Table Agencies.profile_profile does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.profile_profile'
+2024-03-27 20:01:23,745 Successfully loaded 1714 records into Agencies.profile_profile at 2024-03-27 20:01:23.745475
+2024-03-27 20:01:27,062 Table Agencies.auth_user does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.auth_user'
+2024-03-27 20:01:27,197 Successfully loaded 1711 records into Agencies.auth_user at 2024-03-27 20:01:27.197773
+2024-03-27 20:01:30,410 Table Agencies.logit_userlogin does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.logit_userlogin'
+2024-03-27 20:01:30,501 Successfully loaded 1921 records into Agencies.logit_userlogin at 2024-03-27 20:01:30.501904
+2024-03-27 20:01:33,777 Table Agencies.profile_geocodingrequest does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.profile_geocodingrequest'
+2024-03-27 20:01:33,898 Successfully loaded 1135 records into Agencies.profile_geocodingrequest at 2024-03-27 20:01:33.898916
+2024-03-27 20:01:37,066 Table Agencies.schedules_schedule does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.schedules_schedule'
+2024-03-27 20:01:37,196 Successfully loaded 1279 records into Agencies.schedules_schedule at 2024-03-27 20:01:37.196518
+2024-03-27 20:01:41,464 Table Agencies.schedules_shift does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.schedules_shift'
+2024-03-27 20:01:41,632 Successfully loaded 1187 records into Agencies.schedules_shift at 2024-03-27 20:01:41.632523
+2024-03-27 20:01:44,632 Table Agencies.agency_agencyadminlocation does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.agency_agencyadminlocation'
+2024-03-27 20:01:44,730 Successfully loaded 783 records into Agencies.agency_agencyadminlocation at 2024-03-27 20:01:44.730522
+2024-03-27 20:01:48,329 Table Agencies.caregiver_caregiver does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.caregiver_caregiver'
+2024-03-27 20:01:48,448 Successfully loaded 636 records into Agencies.caregiver_caregiver at 2024-03-27 20:01:48.448299
+2024-03-27 20:01:51,301 Table Agencies.caregiver_caregiverskillseducation does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.caregiver_caregiverskillseducation'
+2024-03-27 20:01:51,464 Successfully loaded 632 records into Agencies.caregiver_caregiverskillseducation at 2024-03-27 20:01:51.464527
+2024-03-27 20:01:54,806 Table Agencies.patient_patient does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.patient_patient'
+2024-03-27 20:01:54,993 Successfully loaded 495 records into Agencies.patient_patient at 2024-03-27 20:01:54.993106
+2024-03-27 20:02:00,302 Table Agencies.patient_patientplan does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.patient_patientplan'
+2024-03-27 20:02:00,596 Successfully loaded 487 records into Agencies.patient_patientplan at 2024-03-27 20:02:00.596390
+2024-03-27 20:02:04,703 Table Agencies.reports_reportdata does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.reports_reportdata'
+2024-03-27 20:02:04,779 Successfully loaded 503 records into Agencies.reports_reportdata at 2024-03-27 20:02:04.779199
+2024-03-27 20:02:07,370 Table Agencies.profile_patientcontact does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.profile_patientcontact'
+2024-03-27 20:02:07,480 Successfully loaded 440 records into Agencies.profile_patientcontact at 2024-03-27 20:02:07.480765
+2024-03-27 20:02:10,865 Table Agencies.patient_patientcareneedsplan does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.patient_patientcareneedsplan'
+2024-03-27 20:02:10,964 Successfully loaded 437 records into Agencies.patient_patientcareneedsplan at 2024-03-27 20:02:10.964232
+2024-03-27 20:02:13,721 Table Agencies.carelogs_tasklog does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.carelogs_tasklog'
+2024-03-27 20:02:13,835 Successfully loaded 1195 records into Agencies.carelogs_tasklog at 2024-03-27 20:02:13.835442
+2024-03-27 20:02:16,170 Table Agencies.agency_holidays does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.agency_holidays'
+2024-03-27 20:02:16,259 Successfully loaded 321 records into Agencies.agency_holidays at 2024-03-27 20:02:16.259529
+2024-03-27 20:02:18,726 Table Agencies.patient_patient_cached_relations does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.patient_patient_cached_relations'
+2024-03-27 20:02:18,797 Successfully loaded 330 records into Agencies.patient_patient_cached_relations at 2024-03-27 20:02:18.797557
+2024-03-27 20:02:21,500 Table Agencies.profile_profilefile does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.profile_profilefile'
+2024-03-27 20:02:21,583 Successfully loaded 292 records into Agencies.profile_profilefile at 2024-03-27 20:02:21.583290
+2024-03-27 20:02:23,725 Table Agencies.assessment_lifeactivitytask does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.assessment_lifeactivitytask'
+2024-03-27 20:02:23,797 Successfully loaded 226 records into Agencies.assessment_lifeactivitytask at 2024-03-27 20:02:23.797432
+2024-03-27 20:02:26,003 Table Agencies.patient_leadstatus does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.patient_leadstatus'
+2024-03-27 20:02:26,075 Successfully loaded 196 records into Agencies.patient_leadstatus at 2024-03-27 20:02:26.075627
+2024-03-27 20:02:30,091 Table Agencies.carelogs_carelog does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.carelogs_carelog'
+2024-03-27 20:02:30,316 Successfully loaded 368 records into Agencies.carelogs_carelog at 2024-03-27 20:02:30.316093
+2024-03-27 20:02:32,824 Table Agencies.activity_activitytag does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.activity_activitytag'
+2024-03-27 20:02:32,898 Successfully loaded 166 records into Agencies.activity_activitytag at 2024-03-27 20:02:32.898462
+2024-03-27 20:02:35,114 Table Agencies.profile_profiletag does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.profile_profiletag'
+2024-03-27 20:02:35,179 Successfully loaded 138 records into Agencies.profile_profiletag at 2024-03-27 20:02:35.179469
+2024-03-27 20:02:37,263 Table Agencies.agency_agencymatchingcriteria does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.agency_agencymatchingcriteria'
+2024-03-27 20:02:37,298 Successfully loaded 123 records into Agencies.agency_agencymatchingcriteria at 2024-03-27 20:02:37.298864
+2024-03-27 20:02:39,516 Table Agencies.agency_agencyadmin does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.agency_agencyadmin'
+2024-03-27 20:02:39,587 Successfully loaded 104 records into Agencies.agency_agencyadmin at 2024-03-27 20:02:39.587830
+2024-03-27 20:02:41,774 Table Agencies.open_shifts does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.open_shifts'
+2024-03-27 20:02:41,807 Successfully loaded 182 records into Agencies.open_shifts at 2024-03-27 20:02:41.807385
+2024-03-27 20:02:43,881 Table Agencies.billing_payrate does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.billing_payrate'
+2024-03-27 20:02:43,953 Successfully loaded 96 records into Agencies.billing_payrate at 2024-03-27 20:02:43.953827
+2024-03-27 20:02:46,065 Table Agencies.referral_sources_referralsource does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.referral_sources_referralsource'
+2024-03-27 20:02:46,141 Successfully loaded 75 records into Agencies.referral_sources_referralsource at 2024-03-27 20:02:46.141844
+2024-03-27 20:02:48,314 Table Agencies.schedules_shiftnote does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.schedules_shiftnote'
+2024-03-27 20:02:48,370 Successfully loaded 97 records into Agencies.schedules_shiftnote at 2024-03-27 20:02:48.370675
+2024-03-27 20:02:50,674 Table Agencies.caregiver_applicantstatus does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.caregiver_applicantstatus'
+2024-03-27 20:02:50,730 Successfully loaded 83 records into Agencies.caregiver_applicantstatus at 2024-03-27 20:02:50.730652
+2024-03-27 20:02:52,520 Table Agencies.schedules_partnership does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.schedules_partnership'
+2024-03-27 20:02:52,548 Successfully loaded 66 records into Agencies.schedules_partnership at 2024-03-27 20:02:52.548713
+2024-03-27 20:02:54,766 Table Agencies.caregiver_caregiverunavailability does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.caregiver_caregiverunavailability'
+2024-03-27 20:02:54,845 Successfully loaded 90 records into Agencies.caregiver_caregiverunavailability at 2024-03-27 20:02:54.845278
+2024-03-27 20:02:57,131 Table Agencies.billing_billrate does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.billing_billrate'
+2024-03-27 20:02:57,222 Successfully loaded 62 records into Agencies.billing_billrate at 2024-03-27 20:02:57.222481
+2024-03-27 20:02:59,448 Table Agencies.patient_patientactivationrecord does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.patient_patientactivationrecord'
+2024-03-27 20:02:59,513 Successfully loaded 78 records into Agencies.patient_patientactivationrecord at 2024-03-27 20:02:59.513324
+2024-03-27 20:03:01,735 Table Agencies.caregiver_applicationformsetting does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.caregiver_applicationformsetting'
+2024-03-27 20:03:01,792 Successfully loaded 48 records into Agencies.caregiver_applicationformsetting at 2024-03-27 20:03:01.792198
+2024-03-27 20:03:04,158 Table Agencies.schedules_scheduleexception does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.schedules_scheduleexception'
+2024-03-27 20:03:04,231 Successfully loaded 181 records into Agencies.schedules_scheduleexception at 2024-03-27 20:03:04.231284
+2024-03-27 20:03:06,549 Table Agencies.assessment_lifeactivity does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.assessment_lifeactivity'
+2024-03-27 20:03:06,640 Successfully loaded 43 records into Agencies.assessment_lifeactivity at 2024-03-27 20:03:06.640283
+2024-03-27 20:03:08,410 Table Agencies.caregiver_caregiveractivationrecord does not exists. Will be created. Error : Not an executable object: 'TRUNCATE TABLE  KK_DB.Agencies.caregiver_caregiveractivationrecord'
+2024-03-27 20:03:08,451 Successfully loaded 43 records into Agencies.caregiver_caregiveractivationrecord at 2024-03-27 20:03:08.451531

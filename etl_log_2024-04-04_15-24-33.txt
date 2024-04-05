@@ -1,0 +1,5 @@
+2024-04-04 15:24:43,992 Successfully loaded 22915 records into [POC_IOA_ODS].[dbo].[Agencies.patient_clientmatchingcriteria] at 2024-04-04 15:24:43.992449
+2024-04-04 15:24:47,413 Successfully loaded 6913 records into [POC_IOA_ODS].[dbo].[Agencies.caregiver_caregiver_match_criteria] at 2024-04-04 15:24:47.413295
+2024-04-04 15:24:50,744 Successfully loaded 5866 records into [POC_IOA_ODS].[dbo].[Agencies.caregiver_caregivercertification] at 2024-04-04 15:24:50.744033
+2024-04-04 15:24:53,927 Successfully loaded 6919 records into [POC_IOA_ODS].[dbo].[Agencies.schedules_shift_occurence] at 2024-04-04 15:24:53.927076
+2024-04-04 15:24:57,419 Successfully loaded 4945 records into [POC_IOA_ODS].[dbo].[Agencies.assessment_clienttask] at 2024-04-04 15:24:57.419861

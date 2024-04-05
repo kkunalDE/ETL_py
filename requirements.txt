@@ -1,0 +1,9 @@
+pandas
+redshift_connector
+sqlalchemy
+streamlit
+streamlit_autorefresh
+python-dotenv
+pyodbc
+dlt[mssql]>=0.4.7
+pymysql>=1.0.0
